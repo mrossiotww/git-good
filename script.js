@@ -111,7 +111,8 @@ class TodoApp {
         this.todos = [
             { id: 1, text: 'Learn git branching strategies', completed: false, createdAt: new Date() },
             { id: 2, text: 'Practice merge conflicts', completed: true, createdAt: new Date() },
-            { id: 3, text: 'Master the team workflow', completed: false, createdAt: new Date() }
+            { id: 3, text: 'Master the team workflow', completed: false, createdAt: new Date() },
+            { id: 4, text: 'Make a change in all 3 files', completed: true, createdAt: new Date() }
         ];
     }
 }
